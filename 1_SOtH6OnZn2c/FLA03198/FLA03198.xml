@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nygxml>
+<title>Oppslutning Frp</title>
+<description>Interaktiv graf som viser Fremskrittspartiets oppslutning fra oktober 2017 til oktober 2020.</description>
+<author>nyhetsgrafikk.no</author>
+<software>Atom</software>
+<jobname>FLA03198</jobname>
+<height>555</height>
+<journalist>
+<initials>mao</initials>
+<name>Madelene Østbye</name>
+</journalist>
+<date>
+<year>2020</year>
+<month>10</month>
+<day>16</day>
+</date>
+<time>
+<hour>12</hour>
+<minutes>00</minutes>
+<seconds>00</seconds>
+</time>
+<pricekategory>B</pricekategory>
+<keywords>
+<keyword>grafikk</keyword>
+<keyword>interaktiv grafikk</keyword>
+<keyword>interaktiv</keyword>
+<keyword>multimedia</keyword>
+<keyword>multimedie</keyword>
+<keyword>nyg</keyword>
+<keyword>nyhetsgrafikk</keyword>
+<keyword>NTB</keyword>
+<keyword>Frp</keyword>
+<keyword>Fremskrittspartiet</keyword>
+<keyword>landsmøte</keyword>
+<keyword>oppslutning</keyword>
+<keyword>Siv</keyword>
+<keyword>Jensen</keyword>
+<keyword>meningsmåling</keyword>
+</keywords>
+</nygxml>
